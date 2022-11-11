@@ -1,0 +1,15 @@
+.dataDisplay {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+    align-self: stretch;
+
+}
+th {
+    border:1px solid black;
+    column-width: 450px;
+}
+.scrollit {
+    overflow:scroll;
+    height:100px;
+}
